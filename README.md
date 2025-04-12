@@ -1,3 +1,13 @@
+**This document explains how to initialize a new Zephyr project structure from scratch. Later, we will build a sample application provided by Zephyr and load it onto the board.**
+
+The required steps mostly consist of the following:
+
+1.  Setting up the virtual environment and installing required packages
+    
+2.  Cloning and updating the Zephyr repository using the West tool
+    
+3.  Building the project
+
 ![image](https://github.com/user-attachments/assets/7a8885bf-635d-4de1-a4d8-2351c9df5456)
 ![image](https://github.com/user-attachments/assets/10d680b4-4f1a-4562-8709-80f671efd486)
 ![image](https://github.com/user-attachments/assets/20fb2dfb-6cd5-4540-8768-d64accf28b05)
