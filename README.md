@@ -1,6 +1,7 @@
 **This document explains how to initialize a new Zephyr project structure from scratch. Later, we will build a sample application provided by Zephyr and load it onto the board.**
 
 The required steps mostly consist of the following:
+0.  Repository cannot be build and run without completing below steps. Clone it and delete everythink except readme.md & Stm32mp1_Zephyr_Project_Creation_Guide.pdf 
 
 1.  Setting up the virtual environment and installing required packages
     
