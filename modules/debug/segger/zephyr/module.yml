@@ -1,4 +1,0 @@
-name: segger
-build:
-  cmake-ext: True
-  kconfig-ext: True

@@ -1,4 +1,0 @@
-name: littlefs
-build:
-  cmake-ext: True
-  kconfig-ext: True

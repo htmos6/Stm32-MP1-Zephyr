@@ -1,4 +1,0 @@
-name: percepio
-build:
-  cmake-ext: True
-  kconfig: zephyr/Kconfig

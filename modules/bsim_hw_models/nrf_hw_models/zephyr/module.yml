@@ -1,4 +1,0 @@
-build:
-  cmake: .
-  depends:
-    - hal_nordic
