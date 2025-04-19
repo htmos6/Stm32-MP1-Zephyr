@@ -1,3 +1,6 @@
+**This document is prepared to guide the installation of Zephyr for the STM32MP1 board. Note that no officially detailed board support has been released by Zephyr for this board.**
+**Prepared based on Need.**
+
 **This document explains how to initialize a new Zephyr project structure from scratch. Later, we will build a sample application provided by Zephyr and load it onto the board.**
 
 The required steps mostly consist of the following:
